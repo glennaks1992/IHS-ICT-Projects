@@ -9,14 +9,14 @@ body{
 	height:10vh;
 }
 .content-area{
-	height:88vh;
+	height:750px;
 	background-color:#f8db9a;
 	background-image: url("assets/bubbles.gif");
 	background-color: rgba(255, 255, 255, 0.2);
 }
 
 .services{
-	height:80vh;
+	height:600px;
 	background-color:#3fc4e4;
 }
 .footer{
